@@ -7,3 +7,5 @@ For this exercise, we are going to use the `iisignature` package for computing s
 Prepare a new environment in `conda`, and then do:
 1. `conda install numpy jupyterlab matplotlib`
 2. `pip install iisignature`
+
+The notebook `fawcett_gaps.ipynb` is the hoemwork, and it cointains a few gaps to be filled. `fawcett.ipynb` is my solution.
